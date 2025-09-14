@@ -2,7 +2,7 @@
 #
 #  FunkyIDE - 一个专注于炫酷但“无用”功能的Python简易IDE
 #  版本: V0.0
-#  作者: [在这里写上你的GitHub ID]
+#  作者: ASwallow
 #  日期: 2025-09-14
 
 
@@ -526,4 +526,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = FunkyIDE(root)
     root.mainloop()
+
 
